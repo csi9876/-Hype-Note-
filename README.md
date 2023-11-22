@@ -449,5 +449,5 @@
 
 ## 영상
 
-SSAFY 9기 2학기 자율 프로젝트 - 한입 노트 (Hype Note) [UCC 보러가기](https://www.youtube.com/watch?v=UKqX69leV5k)  
+한입 노트 (Hype Note) [UCC 보러가기](https://www.youtube.com/watch?v=UKqX69leV5k)  
 <br/>
