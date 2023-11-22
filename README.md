@@ -1,4 +1,4 @@
-<h1 align="center"> E101 레서판다 팀 자율 프로젝트 </h1>
+<h1 align="center"> 한입노트<Hype Note> </h1>
 
 ## 📝 목차
 
